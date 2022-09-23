@@ -1,20 +1,20 @@
-##                                                              Hi there, I'm Alex 👋
+##                                                              Hi there, I'm Robinson 👋
 
 ## About me
-- :heart: I love open source.
-- 🌱 I’m currently learning C#.
+- :heart: I love Javascript.
+- 🌱 I’m currently learning VueJs.
 - 💬 Ask me about anything.
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: [Email](robinadoro@gmail.com)
+<!-- - 😄 Pronouns: ... -->
 <!-- - 🔭 I’m currently working on -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kiborgok&show_icons=true&theme=blue-green)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiborgok&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=robinadoro&show_icons=true&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=robinadoro&theme=blue-green)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=kiborgok)
+![Profile View Counter](https://komarev.com/ghpvc/?username=robinadoro)
 
 ### Languages and Frameworks
 <p float="left">
@@ -22,11 +22,6 @@
 	
   <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/" />
 
-  <img src="https://img.shields.io/badge/-Python-2E2EFE?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" />
-
-  <img src="https://img.shields.io/badge/-Flask-323330?style=for-the-badge&logo=flask&logoColor=white&link=https://flask.palletsprojects.com" />
-
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/" />
   
   <img src="https://img.shields.io/badge/JavaScript-c7b302?style=for-the-badge&logo=javascript&logoColor=white&link=https://www.javascript.com" />
   
