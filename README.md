@@ -12,7 +12,7 @@
 <!-- - 🔭 I’m currently working on -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=robinadoro&show_icons=true&theme=blue-green)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=robinadoro&theme=blue-green)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=robinadoro&theme=blue-green) -->
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=robinadoro)
 
