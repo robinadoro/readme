@@ -2,7 +2,7 @@
 
 ## About me
 - :heart: I love Javascript.
-- 🌱 I’m currently learning NodeJs.
+<!-- - 🌱 I’m currently learning NodeJs. -->
 - 💬 Ask me about JS.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
